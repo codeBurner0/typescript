@@ -1,0 +1,7 @@
+npm init -y
+npm i -D
+npm i -D typescript tsc-watch eslint prettier eslint-config-prettier eslint-plugin-prettier @typescript-eslint/parser @typescript-eslint/eslint-plugin @types/express @types/node
+npm i node express dotenv 
+npx tsc --init
+
+npm i module-alias
